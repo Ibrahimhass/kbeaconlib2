@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/kbeaconlib2.svg?style=flat)](https://cocoapods.org/pods/kbeaconlib2)
 [![License](https://img.shields.io/cocoapods/l/kbeaconlib2.svg?style=flat)](https://cocoapods.org/pods/kbeaconlib2)
 [![Platform](https://img.shields.io/cocoapods/p/kbeaconlib2.svg?style=flat)](https://cocoapods.org/pods/kbeaconlib2)
+[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)
 
 ## Example
 
@@ -13,8 +14,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-kbeaconlib2 is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+kbeaconlib2 is available through [CocoaPods](https://cocoapods.org) and Swift Package Manager. To install with cocoapods, simply add the following line to your Podfile:
 
 ```ruby
 pod 'kbeaconlib2'
