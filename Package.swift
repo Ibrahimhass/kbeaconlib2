@@ -16,11 +16,7 @@ let package = Package(
         .target(
             name: "kbeaconlib2",
             // Point the source files to the kbeaconlib2/Classes directory
-            path: "kbeaconlib2/Classes",
-            // Include the assets from the kbeaconlib2/Assets directory
-            resources: [
-                .process("kbeaconlib2/Assets")
-            ]
+            path: "kbeaconlib2/Classes"
         ),
     ]
 )
