@@ -19,7 +19,7 @@ let package = Package(
             path: "kbeaconlib2/Classes",
             // Include the assets from the kbeaconlib2/Assets directory
             resources: [
-                .process("Assets")
+                .process("kbeaconlib2/Assets")
             ]
         ),
     ]
